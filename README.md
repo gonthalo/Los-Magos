@@ -1,2 +1,2 @@
-# Los-Magos
+# Los Magos
 o el incendio de la calle Rosario
