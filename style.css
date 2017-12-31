@@ -10,6 +10,10 @@ div.caja {
 	margin-left: 25%;
 }
 
+p {
+	text-align: justify;
+}
+
 p.dial {
 	margin-left: 10px;
 }
